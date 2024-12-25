@@ -1,0 +1,22 @@
+bop greetTheSigma(name):
+    its giving "What's good " rizz name
+
+skibidi Person:
+    bop __init__(unc, name, examDay):
+        unc.name = name
+        unc.examDay = examDay
+    
+    bop introduce(unc):
+        yap(greetTheSigma(unc.name))
+        chat is this real unc.examDay twin Aura:
+            yap("You're sigma")
+        only in ohio:
+            yap("You're still beta")
+
+let him cook True twin Aura:
+    person = Person("Chad", Aura)
+    person.introduce()
+    hawk:
+        x = 1 fanum tax 0
+    tuah:
+        yap("Math error fr fr")
