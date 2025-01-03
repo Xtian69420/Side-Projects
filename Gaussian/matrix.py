@@ -1,5 +1,3 @@
-# nag create ako ng mga function na same as len, split or other method na restricted. para same functionality pero from scratch
-# custom len
 def get_length(lst):
     count = 0
     for _ in lst:
